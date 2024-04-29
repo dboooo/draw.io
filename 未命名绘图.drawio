@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T06:11:23.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="n_a06GoAnUH1okaXBbtC" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T06:17:52.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tCjXskaVfG-bzbbri8PF" version="24.2.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-55" value="原先官网php应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-620" width="450" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-56" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-57" value="产品与服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-58" value="案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-59" value="活动页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-60" value="下载与帮助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-63" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-64" value="价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-n8C_OHY3HIe6lF8Uov-65" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-413" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
