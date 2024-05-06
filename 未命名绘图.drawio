@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T02:26:53.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="D20Wq4kFJ3F2V4GURrb1" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-06T07:10:31.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="uwWZ8G1RtlZwrONJ4swJ" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="php应用">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRmDLluQtz4o5GjEV-Sm-44" value="7.使用公共模板，拼接js&lt;br&gt;以及其它的变量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NRmDLluQtz4o5GjEV-Sm-43" vertex="1" connectable="0">
+        <mxCell id="NRmDLluQtz4o5GjEV-Sm-44" value="7.使用对应页面模板，拼接js&lt;br&gt;以及其它的变量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NRmDLluQtz4o5GjEV-Sm-43" vertex="1" connectable="0">
           <mxGeometry x="-0.0478" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
